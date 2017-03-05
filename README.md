@@ -1,2 +1,2 @@
-# Home-page
-CV 
+# CURRICULUM VITAE
+Resume 
